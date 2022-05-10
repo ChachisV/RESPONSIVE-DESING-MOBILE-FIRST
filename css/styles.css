@@ -149,7 +149,7 @@ main {
 
 .main-tables-container{
     display: flex;
-    height: 260px;
+    height: 270px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
@@ -412,7 +412,7 @@ main {
    width: 100%;
    min-width: 320px;
    height: 50vh;
-   background-image: url("../assets/images/bitcoinbaby2x.jpg");
+   background-image: url("../assets/images/bitcoinbaby2-1x.jpg");
    background-position: center;
    background-size: cover;
    background-repeat: no-repeat;
